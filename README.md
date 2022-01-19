@@ -32,6 +32,7 @@ As you can see in the image above, THS's scores of 66.9%, 69.7%, and 65.1% in ma
 # How does replacing the ninth-grade scores affect the following:
 # Math and reading scores by grade
 Math and reading scores by grade are only impacted by the omission of THS' 9th grade scores.. this action does not impact any of the other math and reading scores by grade. Images of the dataframes for reading and math scores are shown below, with "nan" replacing THS' 9th grade scores. 
+
 <img width="277" alt="Screen Shot 2022-01-18 at 8 25 05 PM" src="https://user-images.githubusercontent.com/96043107/150058286-5062bcb7-e084-41d9-9953-853bbd07a648.png">
 
 <img width="276" alt="Screen Shot 2022-01-18 at 8 25 20 PM" src="https://user-images.githubusercontent.com/96043107/150058309-119567fd-2657-4e2b-baae-5e881b55187d.png">
